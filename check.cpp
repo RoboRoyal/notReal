@@ -1,5 +1,5 @@
 
-bool greater(int num){
+bool isGreater(int num){
 
 cout<<"Is "<<num<<" greater than 5?"<<endl;
 
